@@ -1,0 +1,10 @@
+Error rate,0.03196386859025902
+Accuracy,0.968036131409741
+Sensitivity (or) True Positivity rate (or) Recall,0.952346896066902
+Specificity (or) True Negative rate,1.0
+Precision (or) Positive Predicted Value,1.0
+False positive rate,0.0
+Matthews correlation coefficient,28309296288.0
+F_0.5,0.5405295697101957
+F_1,0.97559188685725
+F_2,0.9615106898339909
